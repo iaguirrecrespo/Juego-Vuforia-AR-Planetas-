@@ -37,6 +37,13 @@
 # Visual Studio cache directory
 .vs/
 
+# Visual Studio Code
+.vscode/
+
+# Archivos grandes de Vuforia / IL2CPP
+**/appl-0.1.0-v1-IL2CPP.symbols.zip
+/Packages/com.ptc.vuforia.engine-11.4.4.tgz
+
 # Gradle cache directory
 .gradle/
 
